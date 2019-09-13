@@ -1,0 +1,2 @@
+C:\Users\Brandon Wade\Desktop\Scientifc Games\High Or Low\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Brandon Wade\Desktop\Scientifc Games\High Or Low\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
